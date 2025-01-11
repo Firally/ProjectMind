@@ -2,7 +2,9 @@
 
 [Cпецификация проекта](https://github.com/Firally/ProjectMind/blob/main/specifications.md)
 
-Протестировать приложение можно [тут](https://a4rmso-57-129-59-152.ru.tuna.am)
+Автор проекта - Никитина Алина Андреевна (tg - @lynxfai)
+
+Протестировать приложение можно [тут](https://a4rmso-57-129-59-152.ru.tuna.am) (временно не работает)
 
 [Видео теста приложения](https://drive.google.com/file/d/1sS0B2eTlp8zv3062sOpmXzCnzMiLKgLN/view?usp=sharing).
 ____________________________________________________________________________________________________
