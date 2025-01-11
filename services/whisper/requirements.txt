@@ -2,3 +2,4 @@ uvicorn==0.34.0
 fastapi==0.115.6
 openai-whisper
 python-multipart==0.0.20
+ffmpeg-python==0.2.0
