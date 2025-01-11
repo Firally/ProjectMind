@@ -81,7 +81,7 @@ npm start
 3. Создайте файл .env и внесите в него строку с OPENAI_API_KEY
 
 ```
-OPENAI_API_KEY=<Ваш ключ open ai>
+OPENAI_API_KEY=<Ваш ключ OPENAI_API_KEY>
 ```
 
 4. Установите необходимые библиотеки
