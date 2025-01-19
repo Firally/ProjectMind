@@ -111,5 +111,5 @@ pip install -r requirements.txt
 4. Запустите сервис
 
 ```bash
-uvicorn whisper:app --reload --port=8000
+uvicorn whisper_service:app --reload --port=8000
 ```
